@@ -1,0 +1,36 @@
+2023-05-13 10:23:45,993 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 10:23:45,994 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 10:23:45,994 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 10:23:45,995 INFO NEWS: 
+2023-05-13 10:23:45,995 INFO NEWS: ::NEW BULLETIN::
+2023-05-13 10:23:45,995 INFO NEWS: 
+2023-05-13 10:23:45,995 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 10:23:45,995 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 10:23:45,995 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 10:23:45,995 INFO NEWS: 
+2023-05-13 10:23:45,995 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 10:23:45,995 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 10:23:45,995 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 10:23:45,996 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 10:23:45,996 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 10:23:45,996 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 10:23:45,996 INFO NEWS: 
+2023-05-13 10:23:45,996 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 10:23:45,996 INFO NEWS: 
+2023-05-13 10:23:45,996 INFO NEWS: Plugin support 🔌
+2023-05-13 10:23:45,996 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 10:23:45,996 INFO NEWS: adding support for third-party services and more.
+2023-05-13 10:23:45,996 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 10:23:45,996 INFO NEWS: 
+2023-05-13 10:23:45,996 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 10:23:45,996 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 10:23:45,996 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 10:23:45,997 INFO NEWS: 
+2023-05-13 10:23:45,997 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 10:23:45,997 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 10:23:45,997 INFO NEWS: 
+2023-05-13 10:24:01,568 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 10:24:01,890 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 10:24:02,170 INFO  Asking user via keyboard...
+2023-05-13 10:26:49,463 INFO  You interrupted Auto-GPT
+2023-05-13 10:26:49,465 INFO  Quitting...
