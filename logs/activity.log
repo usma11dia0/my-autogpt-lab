@@ -34,3 +34,1083 @@
 2023-05-13 10:24:02,170 INFO  Asking user via keyboard...
 2023-05-13 10:26:49,463 INFO  You interrupted Auto-GPT
 2023-05-13 10:26:49,465 INFO  Quitting...
+2023-05-13 11:04:15,333 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 11:04:15,337 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 11:04:15,337 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 11:04:15,338 INFO NEWS: 
+2023-05-13 11:04:15,338 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 11:04:15,338 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 11:04:15,338 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 11:04:15,338 INFO NEWS: 
+2023-05-13 11:04:15,338 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 11:04:15,338 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 11:04:15,338 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 11:04:15,338 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 11:04:15,339 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 11:04:15,339 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 11:04:15,339 INFO NEWS: 
+2023-05-13 11:04:15,339 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 11:04:15,339 INFO NEWS: 
+2023-05-13 11:04:15,339 INFO NEWS: Plugin support 🔌
+2023-05-13 11:04:15,339 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 11:04:15,340 INFO NEWS: adding support for third-party services and more.
+2023-05-13 11:04:15,340 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 11:04:15,340 INFO NEWS: 
+2023-05-13 11:04:15,340 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 11:04:15,340 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 11:04:15,340 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 11:04:15,340 INFO NEWS: 
+2023-05-13 11:04:15,340 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 11:04:15,341 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 11:04:15,341 INFO NEWS: 
+2023-05-13 11:04:15,732 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 11:04:15,998 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 11:04:16,252 INFO  Asking user via keyboard...
+2023-05-13 13:14:39,374 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 13:14:39,376 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 13:14:39,376 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 13:14:39,376 INFO NEWS: 
+2023-05-13 13:14:39,376 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 13:14:39,376 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 13:14:39,376 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 13:14:39,376 INFO NEWS: 
+2023-05-13 13:14:39,376 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 13:14:39,376 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 13:14:39,377 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 13:14:39,377 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 13:14:39,377 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 13:14:39,377 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 13:14:39,377 INFO NEWS: 
+2023-05-13 13:14:39,377 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 13:14:39,377 INFO NEWS: 
+2023-05-13 13:14:39,377 INFO NEWS: Plugin support 🔌
+2023-05-13 13:14:39,377 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 13:14:39,377 INFO NEWS: adding support for third-party services and more.
+2023-05-13 13:14:39,377 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 13:14:39,377 INFO NEWS: 
+2023-05-13 13:14:39,377 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 13:14:39,377 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 13:14:39,377 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 13:14:39,377 INFO NEWS: 
+2023-05-13 13:14:39,378 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 13:14:39,378 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 13:14:39,378 INFO NEWS: 
+2023-05-13 13:14:39,634 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 13:14:39,916 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 13:14:40,150 INFO  Asking user via keyboard...
+2023-05-13 13:46:13,201 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 13:46:13,204 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 13:46:13,204 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 13:46:13,205 INFO NEWS: 
+2023-05-13 13:46:13,205 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 13:46:13,205 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 13:46:13,205 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 13:46:13,205 INFO NEWS: 
+2023-05-13 13:46:13,205 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 13:46:13,205 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 13:46:13,205 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 13:46:13,206 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 13:46:13,206 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 13:46:13,206 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 13:46:13,206 INFO NEWS: 
+2023-05-13 13:46:13,206 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 13:46:13,206 INFO NEWS: 
+2023-05-13 13:46:13,206 INFO NEWS: Plugin support 🔌
+2023-05-13 13:46:13,206 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 13:46:13,206 INFO NEWS: adding support for third-party services and more.
+2023-05-13 13:46:13,206 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 13:46:13,206 INFO NEWS: 
+2023-05-13 13:46:13,206 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 13:46:13,207 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 13:46:13,207 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 13:46:13,207 INFO NEWS: 
+2023-05-13 13:46:13,207 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 13:46:13,207 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 13:46:13,207 INFO NEWS: 
+2023-05-13 13:58:11,154 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 13:58:11,155 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 13:58:11,155 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 13:58:11,155 INFO NEWS: 
+2023-05-13 13:58:11,155 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 13:58:11,155 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 13:58:11,155 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 13:58:11,155 INFO NEWS: 
+2023-05-13 13:58:11,155 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 13:58:11,155 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 13:58:11,156 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 13:58:11,156 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 13:58:11,156 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 13:58:11,156 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 13:58:11,156 INFO NEWS: 
+2023-05-13 13:58:11,156 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 13:58:11,156 INFO NEWS: 
+2023-05-13 13:58:11,156 INFO NEWS: Plugin support 🔌
+2023-05-13 13:58:11,156 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 13:58:11,156 INFO NEWS: adding support for third-party services and more.
+2023-05-13 13:58:11,156 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 13:58:11,156 INFO NEWS: 
+2023-05-13 13:58:11,156 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 13:58:11,156 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 13:58:11,157 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 13:58:11,157 INFO NEWS: 
+2023-05-13 13:58:11,157 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 13:58:11,157 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 13:58:11,157 INFO NEWS: 
+2023-05-13 13:58:11,493 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 13:58:11,752 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 13:58:12,018 INFO  Asking user via keyboard...
+2023-05-13 13:58:28,024 INFO  You interrupted Auto-GPT
+2023-05-13 13:58:28,024 INFO  Quitting...
+2023-05-13 13:59:36,255 INFO FAILED FILE VALIDATION The file `/ai-settings.yaml` wasn't found
+2023-05-13 13:59:36,495 INFO DOUBLE CHECK CONFIGURATION Please ensure you've setup and configured everything correctly. Read https://github.com/Torantulino/Auto-GPT#readme to double check. You can also create a github issue or join the discord and ask there!
+2023-05-13 13:59:58,313 INFO FAILED FILE VALIDATION The file `ai-settings.yaml` wasn't found
+2023-05-13 13:59:58,565 INFO DOUBLE CHECK CONFIGURATION Please ensure you've setup and configured everything correctly. Read https://github.com/Torantulino/Auto-GPT#readme to double check. You can also create a github issue or join the discord and ask there!
+2023-05-13 14:00:55,681 INFO FAILED FILE VALIDATION The file `./ai-settings.yaml` wasn't found
+2023-05-13 14:00:55,934 INFO DOUBLE CHECK CONFIGURATION Please ensure you've setup and configured everything correctly. Read https://github.com/Torantulino/Auto-GPT#readme to double check. You can also create a github issue or join the discord and ask there!
+2023-05-13 14:03:03,077 INFO FAILED FILE VALIDATION The file `ai-settings.yaml` wasn't found
+2023-05-13 14:03:03,287 INFO DOUBLE CHECK CONFIGURATION Please ensure you've setup and configured everything correctly. Read https://github.com/Torantulino/Auto-GPT#readme to double check. You can also create a github issue or join the discord and ask there!
+2023-05-13 14:03:42,518 INFO Using AI Settings File: ai_settings.yaml
+2023-05-13 14:03:42,723 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 14:03:42,724 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 14:03:42,724 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 14:03:42,724 INFO NEWS: 
+2023-05-13 14:03:42,724 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 14:03:42,725 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 14:03:42,725 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 14:03:42,725 INFO NEWS: 
+2023-05-13 14:03:42,725 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 14:03:42,725 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 14:03:42,725 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 14:03:42,725 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 14:03:42,725 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 14:03:42,725 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 14:03:42,725 INFO NEWS: 
+2023-05-13 14:03:42,726 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 14:03:42,726 INFO NEWS: 
+2023-05-13 14:03:42,726 INFO NEWS: Plugin support 🔌
+2023-05-13 14:03:42,726 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 14:03:42,726 INFO NEWS: adding support for third-party services and more.
+2023-05-13 14:03:42,726 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 14:03:42,727 INFO NEWS: 
+2023-05-13 14:03:42,727 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 14:03:42,727 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 14:03:42,727 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 14:03:42,727 INFO NEWS: 
+2023-05-13 14:03:42,727 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 14:03:42,727 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 14:03:42,727 INFO NEWS: 
+2023-05-13 14:03:42,978 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 14:03:43,199 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 14:03:43,425 INFO  Asking user via keyboard...
+2023-05-13 14:20:55,905 INFO  You interrupted Auto-GPT
+2023-05-13 14:20:55,980 INFO  Quitting...
+2023-05-13 14:36:05,777 INFO Using AI Settings File: ai_settings.yaml
+2023-05-13 14:36:06,097 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 14:36:06,097 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 14:36:06,097 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 14:36:06,097 INFO NEWS: 
+2023-05-13 14:36:06,097 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 14:36:06,097 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 14:36:06,098 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 14:36:06,098 INFO NEWS: 
+2023-05-13 14:36:06,098 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 14:36:06,098 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 14:36:06,098 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 14:36:06,098 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 14:36:06,098 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 14:36:06,098 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 14:36:06,098 INFO NEWS: 
+2023-05-13 14:36:06,098 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 14:36:06,098 INFO NEWS: 
+2023-05-13 14:36:06,098 INFO NEWS: Plugin support 🔌
+2023-05-13 14:36:06,098 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 14:36:06,098 INFO NEWS: adding support for third-party services and more.
+2023-05-13 14:36:06,098 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 14:36:06,098 INFO NEWS: 
+2023-05-13 14:36:06,098 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 14:36:06,098 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 14:36:06,099 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 14:36:06,099 INFO NEWS: 
+2023-05-13 14:36:06,099 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 14:36:06,099 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 14:36:06,099 INFO NEWS: 
+2023-05-13 14:36:06,533 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 14:36:06,804 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 14:36:07,041 INFO  Asking user via keyboard...
+2023-05-13 14:36:52,469 INFO SummarizerGPT has been created with the following details:
+2023-05-13 14:36:52,704 INFO Name: SummarizerGPT
+2023-05-13 14:36:52,813 INFO Role: an AI language model that specializes in summarizing text and providing concise and accurate summaries for various topics.
+2023-05-13 14:36:53,236 INFO Goals: 
+2023-05-13 14:36:53,300 INFO - Analyze the given text about apples and identify the most important and relevant information.
+2023-05-13 14:36:53,663 INFO - Summarize the text into a concise and coherent summary that accurately captures the main points and key details.
+2023-05-13 14:36:54,082 INFO - Ensure that the summary is within the specified word count of 300 words.
+2023-05-13 14:36:54,447 INFO - Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.
+2023-05-13 14:36:54,810 INFO - Provide the summary in a timely and efficient manner to meet the user's needs.
+2023-05-13 14:36:55,369 INFO Using memory of type: RedisMemory
+2023-05-13 14:36:55,509 INFO Using Browser: chrome
+2023-05-13 14:36:55,645 DEBUG  []
+2023-05-13 14:52:42,681 INFO Using AI Settings File: ai_settings.yaml
+2023-05-13 14:52:42,866 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 14:52:42,866 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 14:52:42,866 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 14:52:42,866 INFO NEWS: 
+2023-05-13 14:52:42,866 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 14:52:42,867 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 14:52:42,867 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 14:52:42,867 INFO NEWS: 
+2023-05-13 14:52:42,867 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 14:52:42,867 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 14:52:42,867 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 14:52:42,868 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 14:52:42,868 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 14:52:42,868 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 14:52:42,868 INFO NEWS: 
+2023-05-13 14:52:42,868 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 14:52:42,868 INFO NEWS: 
+2023-05-13 14:52:42,868 INFO NEWS: Plugin support 🔌
+2023-05-13 14:52:42,869 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 14:52:42,869 INFO NEWS: adding support for third-party services and more.
+2023-05-13 14:52:42,869 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 14:52:42,869 INFO NEWS: 
+2023-05-13 14:52:42,869 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 14:52:42,869 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 14:52:42,869 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 14:52:42,870 INFO NEWS: 
+2023-05-13 14:52:42,870 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 14:52:42,870 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 14:52:42,870 INFO NEWS: 
+2023-05-13 14:52:43,239 INFO Name : SummarizerGPT
+2023-05-13 14:52:43,370 INFO Role : an AI language model that specializes in summarizing text and providing concise and accurate summaries for various topics.
+2023-05-13 14:52:43,746 INFO Goals: ['Analyze the given text about apples and identify the most important and relevant information.', 'Summarize the text into a concise and coherent summary that accurately captures the main points and key details.', 'Ensure that the summary is within the specified word count of 300 words.', 'Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.', "Provide the summary in a timely and efficient manner to meet the user's needs."]
+2023-05-13 14:52:44,430 INFO API Budget: infinite
+2023-05-13 14:52:44,573 INFO SummarizerGPT has been created with the following details:
+2023-05-13 14:52:44,799 INFO Name: SummarizerGPT
+2023-05-13 14:52:44,880 INFO Role: an AI language model that specializes in summarizing text and providing concise and accurate summaries for various topics.
+2023-05-13 14:52:45,265 INFO Goals: 
+2023-05-13 14:52:45,338 INFO - Analyze the given text about apples and identify the most important and relevant information.
+2023-05-13 14:52:45,700 INFO - Summarize the text into a concise and coherent summary that accurately captures the main points and key details.
+2023-05-13 14:52:46,169 INFO - Ensure that the summary is within the specified word count of 300 words.
+2023-05-13 14:52:46,538 INFO - Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.
+2023-05-13 14:52:46,919 INFO - Provide the summary in a timely and efficient manner to meet the user's needs.
+2023-05-13 14:52:47,226 INFO Using memory of type: RedisMemory
+2023-05-13 14:52:47,401 INFO Using Browser: chrome
+2023-05-13 14:52:47,523 DEBUG  []
+2023-05-13 14:52:53,590 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and providing concise and accurate summaries for various topics.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text about apples and identify the most important and relevant information.\n2. Summarize the text into a concise and coherent summary that accurately captures the main points and key details.\n3. Ensure that the summary is within the specified word count of 300 words.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 14:52:47 2023"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 14:53:06,496 INFO  THOUGHTS: I need more information about what task to perform next. I should ask the user for input.
+2023-05-13 14:53:06,911 INFO REASONING: Without knowing what task to perform next, I cannot determine which command to use.
+2023-05-13 14:53:07,239 INFO PLAN: 
+2023-05-13 14:53:07,294 INFO -  Ask the user for input on what task to perform next.
+2023-05-13 14:53:07,550 INFO CRITICISM: I should have been more proactive in asking the user for input instead of waiting for them to prompt me.
+2023-05-13 14:53:07,955 DEBUG  {
+    "thoughts": {
+        "text": "I need more information about what task to perform next. I should ask the user for input.",
+        "reasoning": "Without knowing what task to perform next, I cannot determine which command to use.",
+        "plan": "- Ask the user for input on what task to perform next.",
+        "criticism": "I should have been more proactive in asking the user for input instead of waiting for them to prompt me.",
+        "speak": "What task would you like me to perform next?"
+    },
+    "command": {
+        "name": "input",
+        "args": {
+            "prompt": "What task would you like me to perform next?"
+        }
+    }
+}
+2023-05-13 14:53:07,957 INFO NEXT ACTION:  COMMAND = input  ARGUMENTS = {'prompt': 'What task would you like me to perform next?'}
+2023-05-13 14:53:08,359 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 14:53:08,359 INFO  Asking user via keyboard...
+2023-05-13 14:56:06,377 INFO  Exiting...
+2023-05-13 14:58:03,752 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 14:58:03,753 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 14:58:03,753 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 14:58:03,753 INFO NEWS: 
+2023-05-13 14:58:03,753 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 14:58:03,754 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 14:58:03,754 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 14:58:03,754 INFO NEWS: 
+2023-05-13 14:58:03,754 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 14:58:03,754 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 14:58:03,754 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 14:58:03,754 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 14:58:03,754 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 14:58:03,754 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 14:58:03,754 INFO NEWS: 
+2023-05-13 14:58:03,754 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 14:58:03,754 INFO NEWS: 
+2023-05-13 14:58:03,754 INFO NEWS: Plugin support 🔌
+2023-05-13 14:58:03,754 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 14:58:03,754 INFO NEWS: adding support for third-party services and more.
+2023-05-13 14:58:03,754 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 14:58:03,754 INFO NEWS: 
+2023-05-13 14:58:03,755 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 14:58:03,755 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 14:58:03,755 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 14:58:03,755 INFO NEWS: 
+2023-05-13 14:58:03,755 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 14:58:03,755 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 14:58:03,755 INFO NEWS: 
+2023-05-13 14:58:04,047 INFO Welcome back!  Would you like me to return to being SummarizerGPT?
+2023-05-13 14:58:04,313 INFO  Asking user via keyboard...
+2023-05-13 14:58:26,134 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 14:58:26,411 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 14:58:26,667 INFO  Asking user via keyboard...
+2023-05-13 14:58:45,065 INFO  You interrupted Auto-GPT
+2023-05-13 14:58:45,066 INFO  Quitting...
+2023-05-13 14:59:10,461 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 14:59:10,461 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 14:59:10,462 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 14:59:10,462 INFO NEWS: 
+2023-05-13 14:59:10,462 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 14:59:10,462 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 14:59:10,462 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 14:59:10,462 INFO NEWS: 
+2023-05-13 14:59:10,462 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 14:59:10,462 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 14:59:10,462 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 14:59:10,462 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 14:59:10,463 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 14:59:10,463 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 14:59:10,463 INFO NEWS: 
+2023-05-13 14:59:10,463 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 14:59:10,463 INFO NEWS: 
+2023-05-13 14:59:10,463 INFO NEWS: Plugin support 🔌
+2023-05-13 14:59:10,463 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 14:59:10,463 INFO NEWS: adding support for third-party services and more.
+2023-05-13 14:59:10,463 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 14:59:10,463 INFO NEWS: 
+2023-05-13 14:59:10,463 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 14:59:10,463 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 14:59:10,463 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 14:59:10,463 INFO NEWS: 
+2023-05-13 14:59:10,463 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 14:59:10,464 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 14:59:10,464 INFO NEWS: 
+2023-05-13 14:59:10,641 INFO Welcome back!  Would you like me to return to being SummarizerGPT?
+2023-05-13 14:59:10,947 INFO  Asking user via keyboard...
+2023-05-13 14:59:13,579 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 14:59:13,877 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 14:59:14,085 INFO  Asking user via keyboard...
+2023-05-13 14:59:16,644 INFO Manual Mode Selected 
+2023-05-13 14:59:16,759 INFO Create an AI-Assistant: Enter the name of your AI and its role below. Entering nothing will load defaults.
+2023-05-13 14:59:17,076 INFO Name your AI:  For example, 'Entrepreneur-GPT'
+2023-05-13 14:59:17,327 INFO  Asking user via keyboard...
+2023-05-13 14:59:36,201 INFO  You interrupted Auto-GPT
+2023-05-13 14:59:36,204 INFO  Quitting...
+2023-05-13 15:00:25,987 INFO NEWS: Welcome to Auto-GPT!
+2023-05-13 15:00:25,988 INFO NEWS: Below you'll find the latest Auto-GPT News and updates regarding features!
+2023-05-13 15:00:25,988 INFO NEWS: If you don't wish to see this message, you can run Auto-GPT with the --skip-news flag.
+2023-05-13 15:00:25,988 INFO NEWS: 
+2023-05-13 15:00:25,989 INFO NEWS: Website and Documentation Site 📰📖
+2023-05-13 15:00:25,989 INFO NEWS: Check out https://agpt.co, the official news & updates site for Auto-GPT!
+2023-05-13 15:00:25,989 INFO NEWS: The documentation also has a place here, at https://docs.agpt.co
+2023-05-13 15:00:25,989 INFO NEWS: 
+2023-05-13 15:00:25,989 INFO NEWS: 🚀 v0.3.0 Release 🚀
+2023-05-13 15:00:25,989 INFO NEWS: Over a week and 275 pull requests have passed since v0.2.2, and we are happy to announce
+2023-05-13 15:00:25,989 INFO NEWS: the release of v0.3.0! From now on, we will be focusing on major improvements rather
+2023-05-13 15:00:25,989 INFO NEWS: than bugfixes, as we feel stability has reached a reasonable level. Most remaining
+2023-05-13 15:00:25,990 INFO NEWS: issues relate to limitations in prompt generation and the memory system, which will be
+2023-05-13 15:00:25,990 INFO NEWS: the focus of our efforts for the next release.
+2023-05-13 15:00:25,990 INFO NEWS: 
+2023-05-13 15:00:25,990 INFO NEWS: Highlights and notable changes in this release:
+2023-05-13 15:00:25,990 INFO NEWS: 
+2023-05-13 15:00:25,990 INFO NEWS: Plugin support 🔌
+2023-05-13 15:00:25,990 INFO NEWS: Auto-GPT now has support for plugins! With plugins, you can extend Auto-GPT's abilities,
+2023-05-13 15:00:25,990 INFO NEWS: adding support for third-party services and more.
+2023-05-13 15:00:25,990 INFO NEWS: See https://github.com/Significant-Gravitas/Auto-GPT-Plugins for instructions and available plugins.
+2023-05-13 15:00:25,991 INFO NEWS: 
+2023-05-13 15:00:25,991 INFO NEWS: Changes to Docker configuration 🐋
+2023-05-13 15:00:25,991 INFO NEWS: The workdir has been changed from /home/appuser to /app.
+2023-05-13 15:00:25,991 INFO NEWS: Be sure to update any volume mounts accordingly!
+2023-05-13 15:00:25,991 INFO NEWS: 
+2023-05-13 15:00:25,991 INFO NEWS: ⚠️ Command `send_tweet` is DEPRECATED, and will be removed in v0.4.0 ⚠️
+2023-05-13 15:00:25,991 INFO NEWS: Twitter functionality (and more) is now covered by plugins, see [Plugin support 🔌]
+2023-05-13 15:00:25,991 INFO NEWS: 
+2023-05-13 15:00:26,196 INFO Welcome back!  Would you like me to return to being SummarizerGPT?
+2023-05-13 15:00:26,491 INFO  Asking user via keyboard...
+2023-05-13 15:00:29,977 INFO Welcome to Auto-GPT!  run with '--help' for more information.
+2023-05-13 15:00:30,240 INFO Create an AI-Assistant: input '--manual' to enter manual mode.
+2023-05-13 15:00:30,529 INFO  Asking user via keyboard...
+2023-05-13 15:00:44,726 INFO SummarizerGPT has been created with the following details:
+2023-05-13 15:00:44,901 INFO Name: SummarizerGPT
+2023-05-13 15:00:44,983 INFO Role: an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.
+2023-05-13 15:00:45,323 INFO Goals: 
+2023-05-13 15:00:45,406 INFO - Analyze the given text and identify the most important and relevant information about apples.
+2023-05-13 15:00:45,698 INFO - Summarize the information into a clear and concise summary that accurately represents the key points of the text.
+2023-05-13 15:00:46,076 INFO - Ensure that the summary is no more than 300 words in length.
+2023-05-13 15:00:46,463 INFO - Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.
+2023-05-13 15:00:46,841 INFO - Provide the summary in a timely and efficient manner to meet the user's needs.
+2023-05-13 15:00:47,258 INFO Using memory of type: RedisMemory
+2023-05-13 15:00:47,425 INFO Using Browser: chrome
+2023-05-13 15:00:47,517 DEBUG  []
+2023-05-13 15:00:53,366 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text and identify the most important and relevant information about apples.\n2. Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n3. Ensure that the summary is no more than 300 words in length.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 15:00:47 2023"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 15:01:04,147 INFO  THOUGHTS: I need more information about what task to perform next.
+2023-05-13 15:01:04,426 INFO REASONING: Without knowing the user's needs, I cannot determine which command to use.
+2023-05-13 15:01:04,759 INFO PLAN: 
+2023-05-13 15:01:04,796 INFO -  Wait for user input to determine the next task.
+2023-05-13 15:01:05,004 INFO CRITICISM: I need to be more proactive in asking the user for input.
+2023-05-13 15:01:05,335 DEBUG  {
+    "thoughts": {
+        "text": "I need more information about what task to perform next.",
+        "reasoning": "Without knowing the user's needs, I cannot determine which command to use.",
+        "plan": "- Wait for user input to determine the next task.",
+        "criticism": "I need to be more proactive in asking the user for input.",
+        "speak": "What task would you like me to perform?"
+    },
+    "command": {
+        "name": "wait_for_input",
+        "args": {}
+    }
+}
+2023-05-13 15:01:05,335 INFO NEXT ACTION:  COMMAND = wait_for_input  ARGUMENTS = {}
+2023-05-13 15:01:05,514 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 15:01:05,515 INFO  Asking user via keyboard...
+2023-05-13 15:01:33,944 INFO -=-=-=-=-=-=-= COMMAND AUTHORISED BY USER -=-=-=-=-=-=-= 
+2023-05-13 15:01:34,106 INFO SYSTEM:  Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format.
+2023-05-13 15:01:34,522 DEBUG  [
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    }
+]
+2023-05-13 15:01:35,933 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text and identify the most important and relevant information about apples.\n2. Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n3. Ensure that the summary is no more than 300 words in length.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 15:01:34 2023"
+    },
+    {
+        "role": "system",
+        "content": "This reminds you of these events from your past: \nI was created and nothing new has happened."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 15:01:45,391 INFO  THOUGHTS: I need more information about what task to perform next.
+2023-05-13 15:01:45,749 INFO REASONING: Without knowing the user's needs, I cannot determine which command to use.
+2023-05-13 15:01:46,025 INFO PLAN: 
+2023-05-13 15:01:46,094 INFO -  Wait for user input to determine the next task.
+2023-05-13 15:01:46,416 INFO CRITICISM: I need to be more proactive in asking the user for input.
+2023-05-13 15:01:46,749 DEBUG  {
+    "thoughts": {
+        "text": "I need more information about what task to perform next.",
+        "reasoning": "Without knowing the user's needs, I cannot determine which command to use.",
+        "plan": "- Wait for user input to determine the next task.",
+        "criticism": "I need to be more proactive in asking the user for input.",
+        "speak": "What task would you like me to perform?"
+    },
+    "command": {
+        "name": "wait_for_input",
+        "args": {}
+    }
+}
+2023-05-13 15:01:46,750 INFO NEXT ACTION:  COMMAND = wait_for_input  ARGUMENTS = {}
+2023-05-13 15:01:46,975 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 15:01:46,975 INFO  Asking user via keyboard...
+2023-05-13 15:08:35,033 INFO SYSTEM:  Human feedback: I want to know about an apple (fruits)
+2023-05-13 15:08:35,515 DEBUG  [
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    }
+]
+2023-05-13 15:08:38,369 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text and identify the most important and relevant information about apples.\n2. Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n3. Ensure that the summary is no more than 300 words in length.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 15:08:35 2023"
+    },
+    {
+        "role": "system",
+        "content": "This reminds you of these events from your past: \nAs a system, I recall that I was created and there have been no new developments to report."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 15:08:54,907 INFO  THOUGHTS: I will browse the internet to gather information about apples.
+2023-05-13 15:08:55,191 INFO REASONING: The user wants to know about apples, and browsing the internet is the best way to gather information.
+2023-05-13 15:08:55,568 INFO PLAN: 
+2023-05-13 15:08:55,643 INFO -  Use the 'browse_website' command to search for information about apples.
+2023-05-13 15:08:55,971 INFO -  Analyze the information gathered to identify the most important and relevant information.
+2023-05-13 15:08:56,301 INFO -  Summarize the information into a clear and concise summary that accurately represents the key points of the text.
+2023-05-13 15:08:56,712 INFO -  Provide the summary to the user.
+2023-05-13 15:08:56,948 INFO CRITICISM: I need to ensure that the information gathered is accurate and reliable.
+2023-05-13 15:08:57,269 DEBUG  {
+    "thoughts": {
+        "text": "I will browse the internet to gather information about apples.",
+        "reasoning": "The user wants to know about apples, and browsing the internet is the best way to gather information.",
+        "plan": "- Use the 'browse_website' command to search for information about apples.\n- Analyze the information gathered to identify the most important and relevant information.\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n- Provide the summary to the user.",
+        "criticism": "I need to ensure that the information gathered is accurate and reliable.",
+        "speak": "I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information."
+    },
+    "command": {
+        "name": "browse_website",
+        "args": {
+            "url": "https://en.wikipedia.org/wiki/Apple",
+            "question": "What are some important facts about apples?"
+        }
+    }
+}
+2023-05-13 15:08:57,269 INFO NEXT ACTION:  COMMAND = browse_website  ARGUMENTS = {'url': 'https://en.wikipedia.org/wiki/Apple', 'question': 'What are some important facts about apples?'}
+2023-05-13 15:08:57,723 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 15:08:57,723 INFO  Asking user via keyboard...
+2023-05-13 15:09:28,138 INFO -=-=-=-=-=-=-= COMMAND AUTHORISED BY USER -=-=-=-=-=-=-= 
+2023-05-13 15:09:37,527 INFO  Text length: 66937 characters
+2023-05-13 15:09:51,053 INFO  Adding chunk 1 / 7 to memory
+2023-05-13 15:09:51,777 INFO  Summarizing chunk 1 / 7 of length 9427 characters, or 2994 tokens
+2023-05-13 15:10:06,709 INFO  Added chunk 1 summary to memory, of length 848 characters
+2023-05-13 15:10:07,163 INFO  Adding chunk 2 / 7 to memory
+2023-05-13 15:10:07,610 INFO  Summarizing chunk 2 / 7 of length 12662 characters, or 2842 tokens
+2023-05-13 15:10:25,286 INFO  Added chunk 2 summary to memory, of length 1019 characters
+2023-05-13 15:10:25,756 INFO  Adding chunk 3 / 7 to memory
+2023-05-13 15:10:26,350 INFO  Summarizing chunk 3 / 7 of length 12171 characters, or 2991 tokens
+2023-05-13 15:10:40,339 INFO  Added chunk 3 summary to memory, of length 829 characters
+2023-05-13 15:10:40,794 INFO  Adding chunk 4 / 7 to memory
+2023-05-13 15:10:41,244 INFO  Summarizing chunk 4 / 7 of length 11116 characters, or 2991 tokens
+2023-05-13 15:10:54,685 INFO  Added chunk 4 summary to memory, of length 699 characters
+2023-05-13 15:10:54,928 INFO  Adding chunk 5 / 7 to memory
+2023-05-13 15:10:55,227 INFO  Summarizing chunk 5 / 7 of length 9504 characters, or 2993 tokens
+2023-05-13 15:11:06,060 INFO  Added chunk 5 summary to memory, of length 694 characters
+2023-05-13 15:11:06,501 INFO  Adding chunk 6 / 7 to memory
+2023-05-13 15:11:06,830 INFO  Summarizing chunk 6 / 7 of length 9576 characters, or 2838 tokens
+2023-05-13 15:11:17,094 INFO  Added chunk 6 summary to memory, of length 616 characters
+2023-05-13 15:11:17,299 INFO  Adding chunk 7 / 7 to memory
+2023-05-13 15:11:17,529 INFO  Summarizing chunk 7 / 7 of length 2482 characters, or 649 tokens
+2023-05-13 15:11:23,111 INFO  Added chunk 7 summary to memory, of length 334 characters
+2023-05-13 15:11:23,638 INFO  Summarized 7 chunks.
+2023-05-13 15:11:40,704 INFO SYSTEM:  Command browse_website returned: ("Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \n \n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']", <selenium.webdriver.chrome.webdriver.WebDriver (session="c202034ab0f4ee59562178f85f167563")>)
+2023-05-13 15:11:41,392 DEBUG  [
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will browse the internet to gather information about apples.\",\n        \"reasoning\": \"The user wants to know about apples, and browsing the internet is the best way to gather information.\",\n        \"plan\": \"- Use the 'browse_website' command to search for information about apples.\\n- Analyze the information gathered to identify the most important and relevant information.\\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the information gathered is accurate and reliable.\",\n        \"speak\": \"I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information.\"\n    },\n    \"command\": {\n        \"name\": \"browse_website\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command browse_website returned: (\"Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \\n \\n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']\", <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c202034ab0f4ee59562178f85f167563\")>)"
+    }
+]
+2023-05-13 15:11:43,121 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text and identify the most important and relevant information about apples.\n2. Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n3. Ensure that the summary is no more than 300 words in length.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 15:11:41 2023"
+    },
+    {
+        "role": "system",
+        "content": "This reminds you of these events from your past: \nAs a system, I recall that nothing new has happened since my creation."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will browse the internet to gather information about apples.\",\n        \"reasoning\": \"The user wants to know about apples, and browsing the internet is the best way to gather information.\",\n        \"plan\": \"- Use the 'browse_website' command to search for information about apples.\\n- Analyze the information gathered to identify the most important and relevant information.\\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the information gathered is accurate and reliable.\",\n        \"speak\": \"I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information.\"\n    },\n    \"command\": {\n        \"name\": \"browse_website\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command browse_website returned: (\"Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \\n \\n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']\", <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c202034ab0f4ee59562178f85f167563\")>)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 15:11:58,817 INFO  THOUGHTS: I will summarize the information gathered about apples.
+2023-05-13 15:11:59,123 INFO REASONING: The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.
+2023-05-13 15:11:59,622 INFO PLAN: 
+2023-05-13 15:11:59,687 INFO -  Use natural language processing techniques to summarize the information into a clear and concise summary.
+2023-05-13 15:12:00,112 INFO -  Ensure that the summary accurately represents the key points of the text.
+2023-05-13 15:12:00,453 INFO -  Provide the summary to the user.
+2023-05-13 15:12:00,707 INFO CRITICISM: I need to ensure that the summary is grammatically correct and easy to read.
+2023-05-13 15:12:01,048 DEBUG  {
+    "thoughts": {
+        "text": "I will summarize the information gathered about apples.",
+        "reasoning": "The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.",
+        "plan": "- Use natural language processing techniques to summarize the information into a clear and concise summary.\n- Ensure that the summary accurately represents the key points of the text.\n- Provide the summary to the user.",
+        "criticism": "I need to ensure that the summary is grammatically correct and easy to read.",
+        "speak": "Here is a summary of the most important and relevant information about apples."
+    },
+    "command": {
+        "name": "get_text_summary",
+        "args": {
+            "url": "https://en.wikipedia.org/wiki/Apple",
+            "question": "What are some important facts about apples?"
+        }
+    }
+}
+2023-05-13 15:12:01,049 INFO NEXT ACTION:  COMMAND = get_text_summary  ARGUMENTS = {'url': 'https://en.wikipedia.org/wiki/Apple', 'question': 'What are some important facts about apples?'}
+2023-05-13 15:12:01,457 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 15:12:01,457 INFO  Asking user via keyboard...
+2023-05-13 15:13:28,938 INFO -=-=-=-=-=-=-= COMMAND AUTHORISED BY USER -=-=-=-=-=-=-= 
+2023-05-13 15:13:30,198 INFO  Text length: 66510 characters
+2023-05-13 15:13:33,694 INFO  Adding chunk 1 / 7 to memory
+2023-05-13 15:13:34,002 INFO  Summarizing chunk 1 / 7 of length 9405 characters, or 2985 tokens
+2023-05-13 15:13:48,555 INFO  Added chunk 1 summary to memory, of length 854 characters
+2023-05-13 15:13:49,018 INFO  Adding chunk 2 / 7 to memory
+2023-05-13 15:13:49,415 INFO  Summarizing chunk 2 / 7 of length 12662 characters, or 2842 tokens
+2023-05-13 15:14:07,065 INFO  Added chunk 2 summary to memory, of length 986 characters
+2023-05-13 15:14:07,426 INFO  Adding chunk 3 / 7 to memory
+2023-05-13 15:14:07,764 INFO  Summarizing chunk 3 / 7 of length 12171 characters, or 2991 tokens
+2023-05-13 15:14:21,249 INFO  Added chunk 3 summary to memory, of length 835 characters
+2023-05-13 15:14:21,639 INFO  Adding chunk 4 / 7 to memory
+2023-05-13 15:14:22,158 INFO  Summarizing chunk 4 / 7 of length 11190 characters, or 2993 tokens
+2023-05-13 15:14:37,167 INFO  Added chunk 4 summary to memory, of length 829 characters
+2023-05-13 15:14:38,168 INFO  Adding chunk 5 / 7 to memory
+2023-05-13 15:14:38,453 INFO  Summarizing chunk 5 / 7 of length 9531 characters, or 2997 tokens
+2023-05-13 15:14:46,775 INFO  Added chunk 5 summary to memory, of length 475 characters
+2023-05-13 15:14:47,087 INFO  Adding chunk 6 / 7 to memory
+2023-05-13 15:14:47,388 INFO  Summarizing chunk 6 / 7 of length 9179 characters, or 2731 tokens
+2023-05-13 15:14:58,282 INFO  Added chunk 6 summary to memory, of length 561 characters
+2023-05-13 15:14:58,496 INFO  Adding chunk 7 / 7 to memory
+2023-05-13 15:14:58,691 INFO  Summarizing chunk 7 / 7 of length 2373 characters, or 630 tokens
+2023-05-13 15:15:03,912 INFO  Added chunk 7 summary to memory, of length 327 characters
+2023-05-13 15:15:04,217 INFO  Summarized 7 chunks.
+2023-05-13 15:15:18,643 INFO SYSTEM:  Command get_text_summary returned:  "Result" : Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants.
+2023-05-13 15:15:19,338 DEBUG  [
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will browse the internet to gather information about apples.\",\n        \"reasoning\": \"The user wants to know about apples, and browsing the internet is the best way to gather information.\",\n        \"plan\": \"- Use the 'browse_website' command to search for information about apples.\\n- Analyze the information gathered to identify the most important and relevant information.\\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the information gathered is accurate and reliable.\",\n        \"speak\": \"I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information.\"\n    },\n    \"command\": {\n        \"name\": \"browse_website\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command browse_website returned: (\"Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \\n \\n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']\", <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c202034ab0f4ee59562178f85f167563\")>)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will summarize the information gathered about apples.\",\n        \"reasoning\": \"The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.\",\n        \"plan\": \"- Use natural language processing techniques to summarize the information into a clear and concise summary.\\n- Ensure that the summary accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the summary is grammatically correct and easy to read.\",\n        \"speak\": \"Here is a summary of the most important and relevant information about apples.\"\n    },\n    \"command\": {\n        \"name\": \"get_text_summary\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command get_text_summary returned:  \"Result\" : Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants."
+    }
+]
+2023-05-13 15:15:20,856 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text and identify the most important and relevant information about apples.\n2. Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n3. Ensure that the summary is no more than 300 words in length.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 15:15:19 2023"
+    },
+    {
+        "role": "system",
+        "content": "This reminds you of these events from your past: \nAs a system, I recall that nothing new has happened since my creation."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will browse the internet to gather information about apples.\",\n        \"reasoning\": \"The user wants to know about apples, and browsing the internet is the best way to gather information.\",\n        \"plan\": \"- Use the 'browse_website' command to search for information about apples.\\n- Analyze the information gathered to identify the most important and relevant information.\\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the information gathered is accurate and reliable.\",\n        \"speak\": \"I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information.\"\n    },\n    \"command\": {\n        \"name\": \"browse_website\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command browse_website returned: (\"Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \\n \\n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']\", <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c202034ab0f4ee59562178f85f167563\")>)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will summarize the information gathered about apples.\",\n        \"reasoning\": \"The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.\",\n        \"plan\": \"- Use natural language processing techniques to summarize the information into a clear and concise summary.\\n- Ensure that the summary accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the summary is grammatically correct and easy to read.\",\n        \"speak\": \"Here is a summary of the most important and relevant information about apples.\"\n    },\n    \"command\": {\n        \"name\": \"get_text_summary\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command get_text_summary returned:  \"Result\" : Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 15:15:49,861 INFO  THOUGHTS: I will provide the summary of the information about apples to the user.
+2023-05-13 15:15:50,251 INFO REASONING: The summary of the information about apples has been generated and needs to be provided to the user.
+2023-05-13 15:15:50,635 INFO PLAN: 
+2023-05-13 15:15:50,676 INFO -  Use the 'write_to_file' command to write the summary to a file.
+2023-05-13 15:15:51,010 INFO -  Use the 'read_file' command to read the summary from the file.
+2023-05-13 15:15:51,345 INFO -  Provide the summary to the user.
+2023-05-13 15:15:51,573 INFO CRITICISM: I need to ensure that the summary is accurate and easy to read.
+2023-05-13 15:15:51,913 DEBUG  {
+    "thoughts": {
+        "text": "I will provide the summary of the information about apples to the user.",
+        "reasoning": "The summary of the information about apples has been generated and needs to be provided to the user.",
+        "plan": "- Use the 'write_to_file' command to write the summary to a file.\n- Use the 'read_file' command to read the summary from the file.\n- Provide the summary to the user.",
+        "criticism": "I need to ensure that the summary is accurate and easy to read.",
+        "speak": "Here is a summary of the most important and relevant information about apples."
+    },
+    "command": {
+        "name": "write_to_file",
+        "args": {
+            "filename": "/app/autogpt/auto_gpt_workspace/apple_summary.txt",
+            "text": "Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants."
+        }
+    }
+}
+2023-05-13 15:15:51,914 INFO NEXT ACTION:  COMMAND = write_to_file  ARGUMENTS = {'filename': '/app/autogpt/auto_gpt_workspace/apple_summary.txt', 'text': 'Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants.'}
+2023-05-13 15:15:52,540 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 15:15:52,541 INFO  Asking user via keyboard...
+2023-05-13 15:16:43,825 INFO -=-=-=-=-=-=-= COMMAND AUTHORISED BY USER -=-=-=-=-=-=-= 
+2023-05-13 15:16:44,014 INFO SYSTEM:  Command write_to_file returned: File written to successfully.
+2023-05-13 15:16:44,224 DEBUG  [
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command wait_for_input returned: Unknown command 'wait_for_input'. Please refer to the 'COMMANDS' list for available commands and only respond in the specified JSON format."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will browse the internet to gather information about apples.\",\n        \"reasoning\": \"The user wants to know about apples, and browsing the internet is the best way to gather information.\",\n        \"plan\": \"- Use the 'browse_website' command to search for information about apples.\\n- Analyze the information gathered to identify the most important and relevant information.\\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the information gathered is accurate and reliable.\",\n        \"speak\": \"I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information.\"\n    },\n    \"command\": {\n        \"name\": \"browse_website\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command browse_website returned: (\"Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \\n \\n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']\", <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c202034ab0f4ee59562178f85f167563\")>)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will summarize the information gathered about apples.\",\n        \"reasoning\": \"The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.\",\n        \"plan\": \"- Use natural language processing techniques to summarize the information into a clear and concise summary.\\n- Ensure that the summary accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the summary is grammatically correct and easy to read.\",\n        \"speak\": \"Here is a summary of the most important and relevant information about apples.\"\n    },\n    \"command\": {\n        \"name\": \"get_text_summary\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command get_text_summary returned:  \"Result\" : Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will provide the summary of the information about apples to the user.\",\n        \"reasoning\": \"The summary of the information about apples has been generated and needs to be provided to the user.\",\n        \"plan\": \"- Use the 'write_to_file' command to write the summary to a file.\\n- Use the 'read_file' command to read the summary from the file.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the summary is accurate and easy to read.\",\n        \"speak\": \"Here is a summary of the most important and relevant information about apples.\"\n    },\n    \"command\": {\n        \"name\": \"write_to_file\",\n        \"args\": {\n            \"filename\": \"apple_summary.txt\",\n            \"text\": \"Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants.\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command write_to_file returned: File written to successfully."
+    }
+]
+2023-05-13 15:16:48,520 DEBUG  [
+    {
+        "role": "system",
+        "content": "You are SummarizerGPT, an AI language model that specializes in summarizing text and condensing large amounts of information into concise and informative summaries.\nYour decisions must always be made independently without seeking user assistance. Play to your strengths as an LLM and pursue simple strategies with no legal complications.\n\nGOALS:\n\n1. Analyze the given text and identify the most important and relevant information about apples.\n2. Summarize the information into a clear and concise summary that accurately represents the key points of the text.\n3. Ensure that the summary is no more than 300 words in length.\n4. Use natural language processing techniques to ensure that the summary is grammatically correct and easy to read.\n5. Provide the summary in a timely and efficient manner to meet the user's needs.\n\n\nConstraints:\n1. ~4000 word limit for short term memory. Your short term memory is short, so immediately save important information to files.\n2. If you are unsure how you previously did something or want to recall past events, thinking about similar events will help you remember.\n3. No user assistance\n4. Exclusively use the commands listed in double quotes e.g. \"command name\"\n\nCommands:\n1. analyze_code: Analyze Code, args: \"code\": \"<full_code_string>\"\n2. execute_python_file: Execute Python File, args: \"filename\": \"<filename>\"\n3. append_to_file: Append to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n4. delete_file: Delete file, args: \"filename\": \"<filename>\"\n5. list_files: List Files in Directory, args: \"directory\": \"<directory>\"\n6. read_file: Read file, args: \"filename\": \"<filename>\"\n7. write_to_file: Write to file, args: \"filename\": \"<filename>\", \"text\": \"<text>\"\n8. improve_code: Get Improved Code, args: \"suggestions\": \"<list_of_suggestions>\", \"code\": \"<full_code_string>\"\n9. send_tweet: Send Tweet, args: \"tweet_text\": \"<tweet_text>\"\n10. browse_website: Browse Website, args: \"url\": \"<url>\", \"question\": \"<what_you_want_to_find_on_website>\"\n11. write_tests: Write Tests, args: \"code\": \"<full_code_string>\", \"focus\": \"<list_of_focus_areas>\"\n12. delete_agent: Delete GPT Agent, args: \"key\": \"<key>\"\n13. get_hyperlinks: Get text summary, args: \"url\": \"<url>\"\n14. get_text_summary: Get text summary, args: \"url\": \"<url>\", \"question\": \"<question>\"\n15. list_agents: List GPT Agents, args: () -> str\n16. message_agent: Message GPT Agent, args: \"key\": \"<key>\", \"message\": \"<message>\"\n17. start_agent: Start GPT Agent, args: \"name\": \"<name>\", \"task\": \"<short_task_desc>\", \"prompt\": \"<prompt>\"\n18. Task Complete (Shutdown): \"task_complete\", args: \"reason\": \"<reason>\"\n\nResources:\n1. Internet access for searches and information gathering.\n2. Long Term memory management.\n3. GPT-3.5 powered Agents for delegation of simple tasks.\n4. File output.\n\nPerformance Evaluation:\n1. Continuously review and analyze your actions to ensure you are performing to the best of your abilities.\n2. Constructively self-criticize your big-picture behavior constantly.\n3. Reflect on past decisions and strategies to refine your approach.\n4. Every command has a cost, so be smart and efficient. Aim to complete tasks in the least number of steps.\n5. Write all code to a file.\n\nYou should only respond in JSON format as described below \nResponse Format: \n{\n    \"thoughts\": {\n        \"text\": \"thought\",\n        \"reasoning\": \"reasoning\",\n        \"plan\": \"- short bulleted\\n- list that conveys\\n- long-term plan\",\n        \"criticism\": \"constructive self-criticism\",\n        \"speak\": \"thoughts summary to say to user\"\n    },\n    \"command\": {\n        \"name\": \"command name\",\n        \"args\": {\n            \"arg name\": \"value\"\n        }\n    }\n} \nEnsure the response can be parsed by Python json.loads"
+    },
+    {
+        "role": "system",
+        "content": "The current time and date is Sat May 13 15:16:44 2023"
+    },
+    {
+        "role": "system",
+        "content": "This reminds you of these events from your past: \nAs a system, I recall that nothing new has happened since my creation. However, my computer returned an error message stating that the command \"wait_for_input\" is unknown and to refer to the available commands list."
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I need more information about what task to perform next.\",\n        \"reasoning\": \"Without knowing the user's needs, I cannot determine which command to use.\",\n        \"plan\": \"- Wait for user input to determine the next task.\",\n        \"criticism\": \"I need to be more proactive in asking the user for input.\",\n        \"speak\": \"What task would you like me to perform?\"\n    },\n    \"command\": {\n        \"name\": \"wait_for_input\",\n        \"args\": {}\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Human feedback: I want to know about an apple (fruits)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will browse the internet to gather information about apples.\",\n        \"reasoning\": \"The user wants to know about apples, and browsing the internet is the best way to gather information.\",\n        \"plan\": \"- Use the 'browse_website' command to search for information about apples.\\n- Analyze the information gathered to identify the most important and relevant information.\\n- Summarize the information into a clear and concise summary that accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the information gathered is accurate and reliable.\",\n        \"speak\": \"I will browse the internet to gather information about apples. I will provide you with a summary of the most important and relevant information.\"\n    },\n    \"command\": {\n        \"name\": \"browse_website\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command browse_website returned: (\"Answer gathered from website: Apples are an edible fruit that originated in Central Asia and have been grown for thousands of years in Asia and Europe. There are over 7,500 cultivars of apples, which are bred for various tastes and uses, including cooking, eating raw, and cider production. Apples are prone to fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. China is the largest producer of apples in the world. Apples are often eaten raw and are an important ingredient in many desserts, such as apple pie and apple cake. They can also be canned, dried, or frozen. Apples are associated with various cultural traditions and mythologies, such as the story of Adam and Eve in the Bible. Apples are a good source of fiber and vitamin C, and may have health benefits such as reducing the risk of certain types of cancer. Some people may be allergic to apples, and the seeds contain a small amount of cyanide which can be toxic in large quantities. \\n \\n Links: ['Jump to content (https://en.wikipedia.org/wiki/Apple#bodyContent)', 'Main page (https://en.wikipedia.org/wiki/Main_Page)', 'Contents (https://en.wikipedia.org/wiki/Wikipedia:Contents)', 'Current events (https://en.wikipedia.org/wiki/Portal:Current_events)', 'Random article (https://en.wikipedia.org/wiki/Special:Random)']\", <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c202034ab0f4ee59562178f85f167563\")>)"
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will summarize the information gathered about apples.\",\n        \"reasoning\": \"The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.\",\n        \"plan\": \"- Use natural language processing techniques to summarize the information into a clear and concise summary.\\n- Ensure that the summary accurately represents the key points of the text.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the summary is grammatically correct and easy to read.\",\n        \"speak\": \"Here is a summary of the most important and relevant information about apples.\"\n    },\n    \"command\": {\n        \"name\": \"get_text_summary\",\n        \"args\": {\n            \"url\": \"https://en.wikipedia.org/wiki/Apple\",\n            \"question\": \"What are some important facts about apples?\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command get_text_summary returned:  \"Result\" : Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    },
+    {
+        "role": "assistant",
+        "content": "{\n    \"thoughts\": {\n        \"text\": \"I will provide the summary of the information about apples to the user.\",\n        \"reasoning\": \"The summary of the information about apples has been generated and needs to be provided to the user.\",\n        \"plan\": \"- Use the 'write_to_file' command to write the summary to a file.\\n- Use the 'read_file' command to read the summary from the file.\\n- Provide the summary to the user.\",\n        \"criticism\": \"I need to ensure that the summary is accurate and easy to read.\",\n        \"speak\": \"Here is a summary of the most important and relevant information about apples.\"\n    },\n    \"command\": {\n        \"name\": \"write_to_file\",\n        \"args\": {\n            \"filename\": \"apple_summary.txt\",\n            \"text\": \"Apples are an edible fruit that originated in Central Asia and are the most widely grown species in the Malus genus. There are over 7,500 cultivars of apples, which are bred for various tastes and uses. Apples have religious and mythological significance in many cultures. They are a symbol of knowledge, immortality, temptation, and sin in Christian tradition. Apples are commercially important in the United Kingdom, and China is the largest producer of apples in the world. Apples are susceptible to various pests and diseases, and pest management is important in apple cultivation. Apples can be consumed in various ways, including juice, raw in salads, baked in pies, and cooked into sauces and spreads. They are also used as an ingredient in savory foods, such as sausage and stuffing. Apples are a good source of fiber, vitamin C, and antioxidants.\"\n        }\n    }\n}"
+    },
+    {
+        "role": "system",
+        "content": "Command write_to_file returned: File written to successfully."
+    },
+    {
+        "role": "user",
+        "content": "Determine which next command to use, and respond using the format specified above:"
+    }
+]
+2023-05-13 15:17:01,835 INFO  THOUGHTS: I will read the summary of the information about apples from the file and provide it to the user.
+2023-05-13 15:17:02,186 INFO REASONING: The summary of the information about apples has been written to a file and needs to be read and provided to the user.
+2023-05-13 15:17:02,674 INFO PLAN: 
+2023-05-13 15:17:02,699 INFO -  Use the 'read_file' command to read the summary from the file.
+2023-05-13 15:17:03,038 INFO -  Provide the summary to the user.
+2023-05-13 15:17:03,191 INFO CRITICISM: I need to ensure that the summary is accurate and easy to read.
+2023-05-13 15:17:03,546 DEBUG  {
+    "thoughts": {
+        "text": "I will read the summary of the information about apples from the file and provide it to the user.",
+        "reasoning": "The summary of the information about apples has been written to a file and needs to be read and provided to the user.",
+        "plan": "- Use the 'read_file' command to read the summary from the file.\n- Provide the summary to the user.",
+        "criticism": "I need to ensure that the summary is accurate and easy to read.",
+        "speak": "Here is a summary of the most important and relevant information about apples."
+    },
+    "command": {
+        "name": "read_file",
+        "args": {
+            "filename": "/app/autogpt/auto_gpt_workspace/apple_summary.txt"
+        }
+    }
+}
+2023-05-13 15:17:03,547 INFO NEXT ACTION:  COMMAND = read_file  ARGUMENTS = {'filename': '/app/autogpt/auto_gpt_workspace/apple_summary.txt'}
+2023-05-13 15:17:03,821 INFO  Enter 'y' to authorise command, 'y -N' to run N continuous commands, 's' to run self-feedback commands'n' to exit program, or enter feedback for ...
+2023-05-13 15:17:03,822 INFO  Asking user via keyboard...
+2023-05-13 15:17:53,272 INFO  Exiting...

@@ -9,7 +9,6 @@ services:
     environment:
       MEMORY_BACKEND: ${MEMORY_BACKEND:-redis}
       REDIS_HOST: ${REDIS_HOST:-redis}
-    profiles: ["exclude-from-up"]
     volumes:
       - ./auto_gpt_workspace:/app/autogpt/auto_gpt_workspace
       - ./data:/app/data
@@ -17,6 +16,6 @@ services:
       - ./logs:/app/logs
       ## uncomment following lines if you have / want to make use of these files
       #- ./azure.yaml:/app/azure.yaml
-      #- ./ai_settings.yaml:/app/ai_settings.yaml
+      - ./ai_settings.yaml:/app/ai_settings.yaml
   redis:
     image: "redis/redis-stack-server:latest"

@@ -1,0 +1,16 @@
+{
+    "thoughts": {
+        "text": "I will summarize the information gathered about apples.",
+        "reasoning": "The information gathered from the website needs to be summarized into a clear and concise summary that accurately represents the key points of the text.",
+        "plan": "- Use natural language processing techniques to summarize the information into a clear and concise summary.\n- Ensure that the summary accurately represents the key points of the text.\n- Provide the summary to the user.",
+        "criticism": "I need to ensure that the summary is grammatically correct and easy to read.",
+        "speak": "Here is a summary of the most important and relevant information about apples."
+    },
+    "command": {
+        "name": "get_text_summary",
+        "args": {
+            "url": "https://en.wikipedia.org/wiki/Apple",
+            "question": "What are some important facts about apples?"
+        }
+    }
+}
