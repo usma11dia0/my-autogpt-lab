@@ -1,0 +1,15 @@
+Network Socket Communication Summary
+
+- Network socket communication is the process by which computers communicate with each other over a network.
+
+- IP addresses are unique identifiers that allow computers to communicate with each other over a network.
+
+- Ports are used to identify specific applications or services running on a computer.
+
+- TCP is a reliable protocol that ensures data is transmitted correctly and in order, while UDP is a faster protocol that sacrifices reliability for speed.
+
+- Commonly used ports include port 80 for web browsing, port 25 for email, and port 443 for secure web browsing.
+
+- Network socket communication is used in a variety of real-world scenarios, including online gaming, web browsing, and email.
+
+In summary, network socket communication is the process by which computers communicate with each other over a network using IP addresses and ports. TCP is a reliable protocol that ensures data is transmitted correctly and in order, while UDP is a faster protocol that sacrifices reliability for speed. Commonly used ports include port 80 for web browsing, port 25 for email, and port 443 for secure web browsing. Network socket communication is used in a variety of real-world scenarios, including online gaming, web browsing, and email.

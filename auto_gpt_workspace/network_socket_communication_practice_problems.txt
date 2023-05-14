@@ -1,0 +1,13 @@
+Network Socket Communication Practice Problems
+
+1. What is an IP address, and why is it important in network socket communication?
+
+2. What is a port, and how is it used in network socket communication?
+
+3. Explain the difference between TCP and UDP protocols, and give an example of when each protocol might be used.
+
+4. Identify the port number used for web browsing, and explain why this port is used.
+
+5. Imagine you are playing an online game. Describe how network socket communication is used to transmit data between your computer and the game server.
+
+In summary, practice problems can help students to test their knowledge and reinforce their understanding of network socket communication. These problems can include identifying IP addresses and ports, explaining the difference between TCP and UDP protocols, and describing how network socket communication is used in real-world scenarios such as online gaming and web browsing.

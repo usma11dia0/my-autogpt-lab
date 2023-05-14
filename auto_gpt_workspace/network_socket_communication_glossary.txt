@@ -1,0 +1,25 @@
+Network Socket Communication Glossary
+
+- IP Address: A unique identifier assigned to each device connected to a network.
+
+- Port: A number used to identify a specific process to which network data is sent.
+
+- Protocol: A set of rules and standards used to govern communication between devices on a network.
+
+- TCP (Transmission Control Protocol): A reliable, connection-oriented protocol used for transmitting data over a network.
+
+- UDP (User Datagram Protocol): An unreliable, connectionless protocol used for transmitting data over a network.
+
+- HTTP (Hypertext Transfer Protocol): A protocol used for transmitting web pages over the internet.
+
+- HTTPS (Hypertext Transfer Protocol Secure): A secure version of HTTP that uses encryption to protect data transmitted over the internet.
+
+- FTP (File Transfer Protocol): A protocol used for transferring files over a network.
+
+- SMTP (Simple Mail Transfer Protocol): A protocol used for transmitting email messages over a network.
+
+- POP3 (Post Office Protocol version 3): A protocol used for retrieving email messages from a mail server.
+
+- IMAP (Internet Message Access Protocol): A protocol used for retrieving email messages from a mail server.
+
+In summary, a glossary of key terms and definitions related to network socket communication can help students to understand the key concepts and takeaways of network socket communication, and can help to reinforce their understanding of the topic.
