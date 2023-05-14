@@ -15,3 +15,10 @@ append: /app/autogpt/auto_gpt_workspace/network_socket_communication_real_world_
 append: /app/autogpt/auto_gpt_workspace/network_socket_communication_real_world_examples.txt #1b9ed8e2247a6fae0ac0d6b7513aaaf1
 write: /app/autogpt/auto_gpt_workspace/ip_address_and_ports.txt #929b1f0698b8b153a75c40b9536b52fc
 write: /app/autogpt/auto_gpt_workspace/tcp_vs_udp.txt #bd0fc8fb46d71564f2a753086d12ea9f
+write: /app/autogpt/auto_gpt_workspace/echo_server.py #4681c89672cd038594ee2e1ecdda705c
+write: /app/autogpt/auto_gpt_workspace/echo_server.py #59af7c91f35cef45bb7206fef37b8575
+write: /app/autogpt/auto_gpt_workspace/echo_server.py #79d70b6638f4a70071b43321f2002b68
+append: /app/autogpt/auto_gpt_workspace/echo_server.py #ba02a0b03088da294a715726ea0c3854
+append: /app/autogpt/auto_gpt_workspace/echo_server.py #934b90101b02cc7d2368990b0ce98b09
+append: /app/autogpt/auto_gpt_workspace/echo_server.py #f662e9e33093020dc7e9e5419947851f
+write: /app/autogpt/auto_gpt_workspace/echo_server.py #99d92188954e71716efc8cab60d86e91

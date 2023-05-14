@@ -1,0 +1,18 @@
+{
+    "thoughts": {
+        "text": "Now that we have optimized the code for efficiency and readability, let's write tests to ensure that the server functions as expected and to catch any errors that may arise.",
+        "reasoning": "Writing tests is essential to ensure that the server functions as expected and to catch any errors that may arise.",
+        "plan": "- Write tests to ensure server functions as expected",
+        "criticism": "I need to ensure that I provide detailed comments for each line of code to ensure high school students can understand.",
+        "speak": "Let's write tests to ensure that the server functions as expected and to catch any errors that may arise."
+    },
+    "command": {
+        "name": "write_tests",
+        "args": {
+            "code": "# Import necessary modules\nimport socket\nimport sys\nimport threading\nimport time\n\n# Define server address and port number\nHOST = ''\nPORT = 8888\n\n# Create socket object\ns = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n\n# Bind socket object to IP address and port number\ntry:\n    s.bind((HOST, PORT))\nexcept socket.error as msg:\n    print('Bind failed. Error Code : ' + str(msg[0]) + ' Message ' + msg[1])\n    sys.exit()\n\n# Set socket to listen for incoming connections\ns.listen(10)\nprint('Socket now listening')\n\n# Define function to handle incoming connections\n\ndef handle_connection():\n    conn, addr = s.accept()\n    print('Connected with ' + addr[0] + ':' + str(addr[1]))\n    \n    # Receive data from client\n    data = conn.recv(1024)\n    reply = 'Server output: ' + data.decode('utf-8')\n    \n    # Echo data back to client\n    conn.sendall(reply.encode('utf-8'))\n    \n    # Close connection\n    conn.close()\n\n# Define function to send data to server\n\ndef send_data():\n    time.sleep(1)\n    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)\n    s.connect((HOST, PORT))\n    s.sendall(b'Hello, world')\n    data = s.recv(1024)\n    s.close()\n    assert data.decode('utf-8') == 'Server output: Hello, world'\n\n# Start server in separate thread\nserver_thread = threading.Thread(target=s.serve_forever)\nserver_thread.start()\n\n# Send data to server\nsend_data()\n\n# Shutdown server\ns.shutdown(socket.SHUT_RDWR)\ns.close()\nserver_thread.join()",
+            "focus": [
+                "Ensure server can receive messages from clients and echo them back"
+            ]
+        }
+    }
+}
